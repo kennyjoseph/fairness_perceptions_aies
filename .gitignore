@@ -1,0 +1,8 @@
+img/*
+tmp.R
+diff.R
+.Rhistory
+.Rproj.user/
+.ipynb_checkpoints/
+ignore/
+.DS_Store

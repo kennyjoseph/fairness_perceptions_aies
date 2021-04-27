@@ -1,0 +1,17 @@
+condition_service_question	context	severity	gain_loss	give_fair
+1	COVID	High	Gain	give
+2	COVID	High	Gain	fair
+3	COVID	High	Loss	give
+4	COVID	High	Loss	fair
+5	COVID	Low	Gain	give
+6	COVID	Low	Gain	fair
+7	COVID	Low	Loss	give
+8	COVID	Low	Loss	fair
+9	Social Work	High	Gain	give
+10	Social Work	High	Gain	fair
+11	Social Work	High	Loss	give
+12	Social Work	High	Loss	fair
+13	Social Work	Low	Gain	give
+14	Social Work	Low	Gain	fair
+15	Social Work	Low	Loss	give
+16	Social Work	Low	Loss	fair
